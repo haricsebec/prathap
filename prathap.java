@@ -1,12 +1,10 @@
-st line by prathap
+// Your First Program
 
-kkjkjk
-khkjh
-hyuu
-uyiyi
-uoiuoi
-
-ggyuiy
-hkhk
-
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+	System.out.println("Hello, ");
+	System.out.println("This is Devops Class, ");
+    }
+}
 
