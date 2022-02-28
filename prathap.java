@@ -5,6 +5,7 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
 	System.out.println("Hello, ");
 	System.out.println("This is Devops Class, ");
+	System.out.println("This is Devops Class, ");
     }
 }
 
